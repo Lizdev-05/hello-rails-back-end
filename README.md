@@ -36,7 +36,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li>The web app that consumes this API is <a href="https://github.com/amejid/hello-react-front-end">here</a></li>
+    <li>The web app that consumes this API is <a href="https://github.com//Lizdev-05/hello-react-front-end">here</a></li>
   </ul>
 </details>
 
@@ -85,7 +85,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:amejid/hello-rails-back-end.git
+  git clone git@github.com:Lizdev-05/hello-rails-back-end.git
 ```
 
 ### Install
